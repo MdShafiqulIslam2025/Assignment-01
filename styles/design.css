@@ -75,13 +75,18 @@ height: 780px;
     height: 328px;
  }
  .banner{
+    max-width: 1140px;
+   max-height: 696.77px;
+    margin: 120px 400px 120px 400px;
     display: flex;
     justify-content: space-around;
     gap:auto;
  }
  .text-banner{
-    margin: 20px 300px 30px 300px;
-  
+    
+    max-width: 1140px;
+   max-height: 696.77px;
+    margin: 10px 400px 10px 400px;
     border-radius: 24px;
     background-color: rgba(78, 71, 255, 0.1);
     padding: 30px;
@@ -182,12 +187,14 @@ height: 780px;
  .FF{
    max-width: 1140px;
    max-height: 696.77px;
+    margin: 10px 400px 10px 400px;
    border-radius: 14px;
    background-color:rgba(255, 255, 255, 1) ;
    padding: 20px 150px 71px 150px;
-   margin: 10px 400px 10px 400px;
+  
  }
 
+ 
  .G-1{
    font-size: 97px;
    font-weight: bold;
@@ -228,9 +235,11 @@ height: 780px;
 
  .form-banner{
    display: flex;
-   
+   max-width: 1140px;
+   max-height: 696.77px;
    padding: 71px 0px 71px 0px;
    justify-content: space-around;
+    margin: 10px 400px 10px 400px;
  }
 
  .H-1{
